@@ -10,17 +10,18 @@ The library is primarily for enabling the ability to utilize ANSI Color Codes on
 ## Tester Documentation (Ansi Utils)
 This will probably be easier to navigate through in the GitHub's Wiki, however this will just be as in depth as the Wiki will be, so everything you need will be within this very file, the Code is also fully commented if you wish to jump straight into coding. If any explanations are weaker than other let us know so we can fix it up!
 ### What this Includes?
-13 Tests
+14 Tests
 * 1 Test related to the ANSI Code Lists
 * 4 Tests related to the Color Object
 * 2 Tests related to the Color256 Object
 * 2 Tests related to the ColorRGB Object
 * 4 Tests related to the various Type to RGB Conversions.
+* 1 Test related to 3 of the new text modes.
 ### Why Upload?
 Well the reason for uploading is for extended Example Code developers can branch off from to get familiar with the Library, and so they can see how its used. If you want the Library its here: [Cecil ANSI Utils](https://github.com/Cecil-Libraries/Cecil-ANSI-Utils). This will be updated alongside the Library as well as Tests are made.
 ## Credits;
 * See Code Comments for more precise credits
-* Chaosyr/SaxbyMod/Creator; Tests 1-13
+* Chaosyr/SaxbyMod/Creator; Tests 1-14
 ## License(s);
 ### Cecil Libraries License (1.0.0)
 Copyright 2025 Cecil Libraries Organization and the Founder(s) Chaosyr

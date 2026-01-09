@@ -1,4 +1,5 @@
 using ANSI_Utils_Tester.ANSITests;
+using Cecil_Libraries.ANSI_Utils.Util;
 
 namespace ANSI_Utils_Tester
 {
@@ -27,6 +28,8 @@ namespace ANSI_Utils_Tester
             Test11.Test();
             Test12.Test();
             Test13.Test();
+            // More Print Tests
+            Test14.Test();
         }
     }
 }
